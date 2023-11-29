@@ -1,1 +1,3 @@
-# Medical_Appointment_Reservation_System
+# Medical Appointment Reservation System
+
+In this project, I developed a Medical Appointment Reservation System using Python, SQL, and Azure technologies. This system automates appointment scheduling with features such as auto-incremented IDs, real-time vaccine inventory updates, and user-friendly appointment verification. I designed a comprehensive database schema with an Entity-Relationship diagram, establishing distinct data models for Caregiver, Patient, and Vaccine entities. Leveraging Azure's cloud database, I implemented a secure account registration system for caregivers and patients, employing robust salting and hashing techniques for password security. Additionally, I created a synchronized schedule-search system connecting with Azure, enabling real-time access to caregiver availability and vaccine stock information for both patients and caregivers.
